@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: mysql-mybatis-plus
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.20.150:13306/wxl?characterEncoding=utf8&rewriteBatchedStatements=true&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+    type: com.alibaba.druid.pool.DruidDataSource
+mybatis-plus:
+  mapper-locations: classpath:/mapper/*Mapper.xml
+  type-aliases-package: com.xl.code_mysql_mybatis_plus.entity

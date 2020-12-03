@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code_mysql_jdbctemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code_mysql_jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code_mysql_mybatis_plus" charset="UTF-8" />
+  </component>
+</project>
